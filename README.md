@@ -19,7 +19,7 @@ to real-world deployment across various AI domains.
 ---
 
 ### 📫 Contact
-- **LinkedIn:**https://www.linkedin.com/in/dimasauliamukti/  
+- **LinkedIn:** https://www.linkedin.com/in/dimasauliamukti/  
 - **Business Email:** dimas.auliamukti.rp@gmail.com
 
 
